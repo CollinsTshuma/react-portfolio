@@ -10,14 +10,14 @@ const data = [
     image: IMG1,
     title: 'MyReads',
     github: "https://github.com/CollinsTshuma/reactnd-myreads",
-    demo: "https://github.com/CollinsTshuma/reactnd-myreads",
+    demo: "https://collins-myreads.netlify.app/",
   },
   {
     id: 2,
     image: IMG2,
     title: 'Would You Rather',
     github: "https://github.com/CollinsTshuma/reactnd-would-you-rather",
-    demo: "https://github.com/CollinsTshuma/reactnd-would-you-rather",
+    demo: "https://collins-would-you-rather.netlify.app/",
   },
   {
     id: 3,
