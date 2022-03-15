@@ -2,7 +2,7 @@ import React from "react";
 import "./portfolio.css";
 import IMG1 from "../../assets/project1.png";
 import IMG2 from "../../assets/project2.png";
-// import IMG3 from "../../assets/project3.jpg";
+import IMG3 from "../../assets/project3.jpg";
 
 const data = [
   {
@@ -21,10 +21,10 @@ const data = [
   },
   {
     id: 3,
-    image: IMG2,
-    title: 'Crypto Currency Dashboard',
-    github: "https://github.com",
-    demo: "https://dribble.com/shots/16673715-Crypo-currency-dashboards-and-financial-data-visualization",
+    image: IMG3,
+    title: 'EthSwap',
+    github: "https://github.com/CollinsTshuma/eth___swap",
+    demo: "https://eth-swap1.netlify.app/",
   }
 ]
 
